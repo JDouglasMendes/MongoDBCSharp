@@ -1,0 +1,16 @@
+D:\Projetos\Blog\NoSQL\MongoDB com C#\DM.MongoDBCSharp\DM.MongoDBCSharp\bin\Debug\DM.MongoDBCSharp.exe.config
+D:\Projetos\Blog\NoSQL\MongoDB com C#\DM.MongoDBCSharp\DM.MongoDBCSharp\bin\Debug\DM.MongoDBCSharp.exe
+D:\Projetos\Blog\NoSQL\MongoDB com C#\DM.MongoDBCSharp\DM.MongoDBCSharp\bin\Debug\DM.MongoDBCSharp.pdb
+D:\Projetos\Blog\NoSQL\MongoDB com C#\DM.MongoDBCSharp\DM.MongoDBCSharp\bin\Debug\MongoDB.Bson.dll
+D:\Projetos\Blog\NoSQL\MongoDB com C#\DM.MongoDBCSharp\DM.MongoDBCSharp\bin\Debug\MongoDB.Driver.Core.dll
+D:\Projetos\Blog\NoSQL\MongoDB com C#\DM.MongoDBCSharp\DM.MongoDBCSharp\bin\Debug\MongoDB.Driver.dll
+D:\Projetos\Blog\NoSQL\MongoDB com C#\DM.MongoDBCSharp\DM.MongoDBCSharp\bin\Debug\MongoDB.Driver.Legacy.dll
+D:\Projetos\Blog\NoSQL\MongoDB com C#\DM.MongoDBCSharp\DM.MongoDBCSharp\bin\Debug\MongoDB.Bson.xml
+D:\Projetos\Blog\NoSQL\MongoDB com C#\DM.MongoDBCSharp\DM.MongoDBCSharp\bin\Debug\MongoDB.Driver.xml
+D:\Projetos\Blog\NoSQL\MongoDB com C#\DM.MongoDBCSharp\DM.MongoDBCSharp\bin\Debug\MongoDB.Driver.Legacy.xml
+D:\Projetos\Blog\NoSQL\MongoDB com C#\DM.MongoDBCSharp\DM.MongoDBCSharp\obj\Debug\DM.MongoDBCSharp.csprojResolveAssemblyReference.cache
+D:\Projetos\Blog\NoSQL\MongoDB com C#\DM.MongoDBCSharp\DM.MongoDBCSharp\obj\Debug\DM.MongoDBCSharp.exe
+D:\Projetos\Blog\NoSQL\MongoDB com C#\DM.MongoDBCSharp\DM.MongoDBCSharp\obj\Debug\DM.MongoDBCSharp.pdb
+D:\Projetos\GitHub\MongoDBCSharp\DM.MongoDBCSharp\DM.MongoDBCSharp\bin\Debug\DM.MongoDBCSharp.exe.config
+D:\Projetos\GitHub\MongoDBCSharp\DM.MongoDBCSharp\DM.MongoDBCSharp\obj\Debug\DM.MongoDBCSharp.exe
+D:\Projetos\GitHub\MongoDBCSharp\DM.MongoDBCSharp\DM.MongoDBCSharp\obj\Debug\DM.MongoDBCSharp.pdb

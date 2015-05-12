@@ -1,0 +1,48 @@
+2015-05-06T20:53:14: Launching bolt session for d:\projetos\github\mongodbcsharp\dm.mongodbcsharp\.dm.mongodbcsharp.boltdata - SessionId: 7d448f54-d00d-4fd9-aca7-e29872e61da1
+2015-05-06T20:53:14: GET http://127.0.0.1:11235/v1/licensed.json 200 0.002s 
+2015-05-06T20:53:14: GET http://127.0.0.1:11235/v1/licensed.json 200 0.001s 
+2015-05-06T20:53:14: NOT LICENSED: Unable to retrieve license for NC-DSK from license cache.
+2015-05-06T20:53:15: NOT LICENSED: Unable to retrieve license for NC-DSK from license cache.
+2015-05-06T20:53:16: GET http://127.0.0.1:11235/v1/licensed.json 200 0.001s 
+2015-05-06T20:53:16: GET http://127.0.0.1:11235/v1/licensed.json 200 0.001s 
+2015-05-06T20:53:24: GET http://127.0.0.1:11235/v1/licensed.json 200 0.001s 
+2015-05-06T20:53:28: GET http://127.0.0.1:11235/v1/licensed.json 200 0.001s 
+2015-05-06T20:53:38: GET http://127.0.0.1:11235/v1/licensed.json 200 0.002s 
+2015-05-06T20:53:40: GET http://127.0.0.1:11235/serveravailable.json 200 0.001s 
+2015-05-06T20:53:43: GET http://127.0.0.1:11235/v1/licensed.json 200 0.001s 
+2015-05-06T20:56:49: NOT LICENSED: Unable to retrieve license for NC-DSK from license cache.
+2015-05-06T20:58:10: NOT LICENSED: Unable to retrieve license for NC-DSK from license cache.
+2015-05-06T20:59:36: NOT LICENSED: Unable to retrieve license for NC-DSK from license cache.
+2015-05-06T20:59:38: NOT LICENSED: Unable to retrieve license for NC-DSK from license cache.
+2015-05-06T21:00:01: NOT LICENSED: Unable to retrieve license for NC-DSK from license cache.
+2015-05-06T21:26:10: NOT LICENSED: Unable to retrieve license for NC-DSK from license cache.
+2015-05-06T21:46:38: Failed to contact license server: Object reference not set to an instance of an object.
+2015-05-06T22:46:38: Failed to contact license server: Object reference not set to an instance of an object.
+2015-05-06T23:46:38: Failed to contact license server: Object reference not set to an instance of an object.
+2015-05-07T00:46:38: Failed to contact license server: Object reference not set to an instance of an object.
+2015-05-07T01:46:38: Failed to contact license server: Object reference not set to an instance of an object.
+2015-05-07T02:46:38: Failed to contact license server: Object reference not set to an instance of an object.
+2015-05-07T03:46:38: Failed to contact license server: Object reference not set to an instance of an object.
+2015-05-07T04:46:38: Failed to contact license server: Object reference not set to an instance of an object.
+2015-05-07T05:46:38: Failed to contact license server: Object reference not set to an instance of an object.
+2015-05-07T05:46:41: NOT LICENSED: Unable to retrieve license for NC-DSK from license cache.
+2015-05-07T05:46:42: NOT LICENSED: Unable to retrieve license for NC-DSK from license cache.
+2015-05-07T05:46:43: NOT LICENSED: Unable to retrieve license for NC-DSK from license cache.
+2015-05-07T05:49:35: NOT LICENSED: Unable to retrieve license for NC-DSK from license cache.
+2015-05-07T05:56:37: NOT LICENSED: Unable to retrieve license for NC-DSK from license cache.
+2015-05-07T06:46:38: Failed to contact license server: Object reference not set to an instance of an object.
+2015-05-07T07:34:37: 
+.Net Framework Details:
+2015-05-07T07:34:37: v2.0.50727  2.0.50727.4927  SP2
+2015-05-07T07:34:37: v3.0  3.0.30729.4926  SP2
+2015-05-07T07:34:37: v3.5  3.5.30729.4926  SP1
+2015-05-07T07:34:37: v4  
+2015-05-07T07:34:37:   Client  4.5.53349
+2015-05-07T07:34:37:   Full  4.5.53349
+2015-05-07T07:34:37: v4.0  
+2015-05-07T07:34:37:   Client  4.0.0.0
+2015-05-07T07:34:39: Stopping NCover server.
+2015-05-07T07:34:39: Shutdown Listener on http://127.0.0.1:11235/
+2015-05-07T07:34:39: Disposing profiler data and shutting down watcher threads.
+2015-05-07T07:34:39: Close pipe communication.
+2015-05-07T07:34:39: Signal shutdown.
